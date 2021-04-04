@@ -1,6 +1,10 @@
 # 8×8 LED Matrix MAX7219 Control 
 8×8 led matrix moving display system using Max7219, Arduino Uno and HC-05 Bluetooth Module. This 8×8 moving display system will be controlled using the android cell phone application.
 
+# Watch
+[![8x8-LED-Matrix-MAX7219-Control](http://img.youtube.com/vi/8XktYzstIWI/0.jpg)](http://www.youtube.com/watch?v=8XktYzstIWI "Matriz de led, MAX7219 e Arduino")
+
+
 # components for code 
 - 8×8 led matrix
 - Arduino Uno or Mega
